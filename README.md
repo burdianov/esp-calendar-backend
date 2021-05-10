@@ -1,3 +1,3 @@
 # Backend - Calendar App
 
-Calendar app backend
+Backend for the Calendar app.
